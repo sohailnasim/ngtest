@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 
 @Test
 public class ShipTest {
+	int test = 02;
 	Location location;
 	Ship ship;
 	@BeforeMethod
@@ -61,6 +62,7 @@ public class ShipTest {
 	  assertEquals(ship.getLocation(), expected);
 	  
   }
+  
   
   public void whenReceiveCommandFThenForward(){
 	  Location expected = location.copy();
