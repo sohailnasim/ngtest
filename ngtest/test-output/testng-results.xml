@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68" started-at="2017-10-10T00:21:35Z" finished-at="2017-10-10T00:21:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68" started-at="2017-10-10T00:21:35Z" finished-at="2017-10-10T00:21:35Z">
+      <class name="com.sn.test.ng.ShipTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="6" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="givenEastWhenMoveForwardThenXIncreases()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="givenEastWhenMoveForwardThenXIncreases" duration-ms="6" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- givenEastWhenMoveForwardThenXIncreases -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="givenNorthWhenMoveForwardThenYDecreases()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="givenNorthWhenMoveForwardThenYDecreases" duration-ms="1" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- givenNorthWhenMoveForwardThenYDecreases -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="whenInstantiatedThenLocationISet()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="whenInstantiatedThenLocationISet" duration-ms="2" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenInstantiatedThenLocationISet -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="whenMoveBackwardThenBackward()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="whenMoveBackwardThenBackward" duration-ms="1" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenMoveBackwardThenBackward -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="whenMoveForwardTenForward()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="whenMoveForwardTenForward" duration-ms="3" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenMoveForwardTenForward -->
+        <test-method status="PASS" signature="whenReceiveCommandFThenForward()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="whenReceiveCommandFThenForward" duration-ms="1" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenReceiveCommandFThenForward -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="whenReceiveCommandsAllAreExecuted()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="whenReceiveCommandsAllAreExecuted" duration-ms="2" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenReceiveCommandsAllAreExecuted -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="whenTurnLeftThenLeft()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="whenTurnLeftThenLeft" duration-ms="2" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenTurnLeftThenLeft -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="whenTurnRightThenRight()[pri:0, instance:com.sn.test.ng.ShipTest@6d8a00e3]" name="whenTurnRightThenRight" duration-ms="1" started-at="2017-10-09T20:21:35Z" finished-at="2017-10-09T20:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenTurnRightThenRight -->
+      </class> <!-- com.sn.test.ng.ShipTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
