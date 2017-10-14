@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 @Test
 public class ShipTest {
-	int test = 02;
+	int test = 2;
 	Location location;
 	Ship ship;
 	@BeforeMethod
